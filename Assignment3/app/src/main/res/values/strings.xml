@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="msg_number_of_days">Number of Days = </string>
+    <string name="label_calculate_days">Calculate Days</string>
+    <string name="msg_select_start_date">Please select start date</string>
+    <string name="msg_select_end_date">Please select end date</string>
+</resources>

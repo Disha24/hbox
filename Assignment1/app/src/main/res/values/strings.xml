@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="label_capital">Capital</string>
+    <string name="label_currency">Currency</string>
+</resources>

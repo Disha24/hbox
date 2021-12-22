@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="label_update">Update</string>
+    <string name="label_message">Message</string>
+    <string name="label_red">Red</string>
+    <string name="label_green">Green</string>
+    <string name="label_blue">Blue</string>
+    <string name="msg_enter_message">Please enter message</string>
+    <string name="msg_select_color">Please select color</string>
+</resources>

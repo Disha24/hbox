@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="px20">20dp</dimen>
+    <dimen name="px40">40dp</dimen>
+    <dimen name="px150">150dp</dimen>
+
+    <dimen name="size15">15sp</dimen>
+    <dimen name="size18">18sp</dimen>
+    <dimen name="size20">20sp</dimen>
+</resources>
